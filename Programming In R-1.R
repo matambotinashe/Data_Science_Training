@@ -1,8 +1,12 @@
 # Question 1
 #
-  # Q.Prescriptive Analytics used to predict the future outcomes? A. FALSE
-  # Q.Base R packages installed automatically? A. TRUE
-#
+  # Q.Prescriptive Analytics used to predict the future outcomes? 
+FALSE
+
+  # Q.Base R packages installed automatically? 
+TRUE
+
+
 # Question 2
 #   Recyling in vectors is when an arithmatic operation is applied to vectors of differnt lengths
 #   and R repeats the elements of the shorter vector to match the number of elements in the longer vector.
@@ -17,4 +21,3 @@
   # x has 6 elements while y has 2 elements the results of  z = x + y has z with 6 elements. In order
   # to match the lenght of x R has create the following vector c(0,5,0,5,0,5) and then add this to x
   # making z = c(5,15,15,25,25,35)
-  
